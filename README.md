@@ -14,6 +14,13 @@ I'm a backend developer and math enthusiast passionate about solving problems wi
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akagiyuu&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akagiyuu&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
+
+---
+
 ## 🔧 Skills & Tools
 
 ### **Languages**
@@ -71,13 +78,6 @@ I'm a backend developer and math enthusiast passionate about solving problems wi
 - [**machine-learning**](https://github.com/akagiyuu/machine-learning): A collection of machine learning algorithms implemented from scratch, with a focus on mathematical rigor and clarity.
 - [**numerical-linear-algebra**](https://github.com/akagiyuu/numerical-linear-algebra): A Rust library exploring numerical linear algebra concepts, including matrix factorizations and eigenvalue computations.
 - [**auto-quiz**](https://github.com/akagiyuu/auto-quiz): Automating quiz solutions using AI and Selenium, streamlining workflows with innovative automation techniques.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akagiyuu&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akagiyuu&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
 
 ---
 
