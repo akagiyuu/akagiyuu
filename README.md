@@ -18,6 +18,7 @@ I'm a backend developer and math enthusiast passionate about solving problems wi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akagiyuu&show_icons=true&theme=github_dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akagiyuu&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
+![](https://github-profile-trophy.vercel.app/?username=akagiyuu&theme=darkhub)
 
 ---
 
